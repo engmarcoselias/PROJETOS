@@ -1,0 +1,103 @@
+------------------------------------------------------Aulas Python---------------------------------------------------------------------------------------
+INTRODUÇÂO:
+
+-Classes, objetos
+-Atributos e methodos
+-Emcapsulamento
+-Methodo getter e setter
+-Propriedades
+-Methodos magicos
+-Functool
+-O que é (__name__ == "__main__")
+
+POO:
+-Herança
+-Polimorfismo
+
+WEB:
+-Protocolo HTTP
+-pip
+-Ambiente virtual
+
+
+Teoria POO:
+https://www.treinaweb.com.br/blog/orientacao-a-objetos-em-python#:~:text=Para%20declarar%20um%20atributo%20em,ser%C3%A1%20criada%20em%20nosso%20programa.
+
+Exemplos e video POO:
+https://www.alura.com.br/conteudo/python-3-avancando-orientacao-objetos?gclid=CjwKCAiAlp2fBhBPEiwA2Q10D4k6LdxaT_HS0yFbbbEFPgY5WvvxR-7x8Au_g6BH5LHbP4AT4cpMMhoC-qYQAvD_BwE
+
+Methodos magicos:
+https://www.youtube.com/watch?v=ZA9K9C2f9p4
+https://pythonhelp.wordpress.com/2013/03/11/os-metodos-magicos-de-python/
+
+Functool:
+https://www.educative.io/answers/what-is-the-totalordering-descriptor-in-functools-in-python
+
+
+__name__ == "__main__":
+https://www.alura.com.br/artigos/o-que-significa-if-name-main-no-python
+
+
+--------------------------------------------------Banco de dados SQLlite3--------------------------------------------------------------------------------
+-SQLlite3
+-Software-SQLite Estudio
+-Comandos
+-Video Aula
+-instrução with
+-conversores de tipo
+
+
+Documentação:
+https://www.sqlite.org/
+
+Software:
+https://sqlitestudio.pl/
+
+Comandos resumidos:
+http://pythonclub.com.br/guia-rapido-comandos-sqlite3.html
+
+Aula:
+https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog
+
+with como usar:
+https://horadecodar.com.br/2020/04/20/para-que-serve-o-with-no-python-como-utilizar/
+
+
+SQL injection:
+https://www.devmedia.com.br/sql-injection/6102
+
+Conversores de tipo:
+https://docs.python.org/3/library/sqlite3.html
+
+
+
+------------------------------------------------------------Frameworks-----------------------------------------------------------------------------------
+
+O qué é Frameworks:
+https://www.voitto.com.br/blog/artigo/frameworks-python
+
+-Django
+
+Site:
+https://www.djangoproject.com/
+
+
+-Flask
+
+Teoria:
+https://flask-ptbr.readthedocs.io/en/latest/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
