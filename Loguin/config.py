@@ -1,0 +1,3 @@
+DEBUG = True
+SECRET_KEY = '123456789'
+SQLALCHEMY_DATABASE_URI = "sqlite:///app.db"
