@@ -1,0 +1,12 @@
+--------------------------------SQLAlchemy criação das tabelas--------------------------------------
+
+Tipos genéricos “CamelCase” 
+
+Os tipos de dados contidos em uma coluna de uma tabela criada no banco de dados.
+
+Exemplo: nome = db.Column(db.String) = contem uma string
+         idade = db.Column(db.integer) = contem um numero inteiro
+
+
+https://docs.sqlalchemy.org/en/20/core/type_basics.html#generic-camelcase-types
+

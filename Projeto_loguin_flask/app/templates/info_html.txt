@@ -1,0 +1,42 @@
+--------------------------------------------------Envelopamento de tag no HTML-------------------------------------------------
+
+https://www.google.com/search?q=envelopar+tag+vs+code&rlz=1C1VDKB_pt-PTBR1088BR1088&oq=envelopar+tag+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCTExOTkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:149753ab,vid:T-d_hsO3hUI,st:187   # No momento 6:08 do video
+
+CTRL + SHIFT + p = Emmet Wrap with Abbreviation
+
+
+-----------------------------------------ATALHOS NO HTML-------------------------------------------------------
+https://www.dio.me/articles/dicas-de-atalhos-para-otimizar-a-produtividade-no-vs-code
+Dica Adicional:
+
+Uma dica útil é criar elementos HTML com classes ou ID de forma eficiente.
+
+Para classes utilizamos o elemento seguido de . + o nome que deseja nomear;
+
+Para ID utilizamos o elemento seguido de #(Hashtag) + o nome que deseja nomear;
+
+Segue alguns exemplos :
+
+span.nome-da-classe
+
+span.classe-a.classe-b (Para várias classes no mesmo elemento, use outro ponto)
+
+span#nome-do-id
+
+span.classe#id (para criar uma classe e um ID juntos no mesmo elemento)
+
+--
+
+Se você quiser criar elementos dentro de outros elementos, pode usar o sinal > (maior que) para criar elementos aninhados. Por exemplo:
+
+div>span - Cria uma div e um span dentro dela.
+
+div#id>span.classe - Cria uma div com um ID e um elemento span com uma classe.
+
+--
+
+Para criar vários elementos rapidamente, use o * (asterisco) seguido pela quantidade desejada:
+
+ul>li.lista*10 - Cria uma lista não ordenada (ul) com 10 itens de lista (li) dentro dela.
+
+Para criar links a[href='link']

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Usuario</title>
+</head>
+<body>
+    <h1> Editando {{ usuario.nome }}</h1>
+    <form action="/edit/{{ usuario.id }}" method="post">
+        <input type="text" name="nome" id="nome" placeholder="Digite o novo nome" value="{{ usuario.nome }}">
+        <input type="password" name="password" id="password" value="{{ usuario.password }}">
+        <button type="submit">Editar</button>
+    </form>
+    
+</body>
+</html>

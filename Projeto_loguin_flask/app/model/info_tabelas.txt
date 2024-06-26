@@ -1,0 +1,7 @@
+-----------------------------------Criação de dados no DB e migração---------------------------------------
+
+https://flask-migrate.readthedocs.io/en/latest/
+
+Flak migrate e a biblioteca responsavel por criar as tabelas linhas colunas e iniciar o banco de dados
+
+-----------------------------------------------------------------------------------------------------------

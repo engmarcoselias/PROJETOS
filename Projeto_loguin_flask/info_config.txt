@@ -1,0 +1,11 @@
+-----------------------------------CONFIG.PY------------------------------------------------------
+
+DEBUG: Quando você ativa o modo de depuração (debug=True) em um aplicativo Flask, ele fornece informações detalhadas sobre erros e comportamento do aplicativo, o que é útil durante o desenvolvimento, mas também pode causar problemas de desempenho em certos cenários.
+
+
+SECRET_KEY: Para encriptar os passwords dos usuários o Flask-Login irá utilizar a chave secret keydo settings de seu projeto. É importante que esta chave seja segura e gerada de maneira mais aleatória possível. Por exemplo, para testes e desenvolvimento você pode utilizar texto puro. mas em produção escolha uma chave segura.
+
+
+SQLALCHEMY_DATABASE_URI: parametros para conexão com banco de dados
+
+---------------------------------------------------------------------------------------------------

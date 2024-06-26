@@ -1,0 +1,25 @@
+--------------------------------------------Trabalhando Rotas no Flask--------------------------------------
+
+https://www.geeksforgeeks.org/flask-app-routing/
+
+
+
+--------------------------------------CRUD NO  flask_SQLAlchemy---------------------------------------------
+
+https://flask-sqlalchemy.palletsprojects.com/en/2.x/queries/
+
+
+Trabalhando com flask_SQLAlchemy:
+
+1-Create the Python object
+
+2-Add it to the session
+
+3-Commit the session
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+---------------------------------CONTROLES---------------------------------------------
+
+Onde e armazenado as partes logicas do software exemplo: arquivo de configuração,
+paginas, interação tudo relacionado a funcionamento da aplicação.
+----------------------------------------------------------------------------------------

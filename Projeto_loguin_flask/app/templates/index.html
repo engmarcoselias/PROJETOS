@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <a href="/add">Adicionar Usuario</a>
+            <tr>
+                <th>Nome:</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for e in usuarios %}
+            <tr>
+                <td>{{e.nome}}</td>
+                <td>
+                    <a href="/edit/{{e.id}}">Edit</a> |
+                    <a href="/delete/{{e.id}}">Excluir</a>
+                </td>
+            </tr>          
+            {% endfor %}
+        </tbody>
+    </table>
+    
+</body>
+</html>

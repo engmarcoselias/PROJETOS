@@ -1,0 +1,347 @@
+------------------------------------------Aulas Python-----------------------------------------------------------
+
+NTRODUÇÂO:
+
+-Classes, objetos
+-Atributos e methodos
+-Emcapsulamento
+-Methodo getter e setter
+-Propriedades
+-Methodos magicos
+-Functool
+-O que é (__name__ == "__main__")
+
+POO:
+-Herança
+-Polimorfismo
+
+WEB:
+-Protocolo HTTP
+-pip
+-Ambiente virtual
+
+
+Teoria POO:
+https://www.treinaweb.com.br/blog/orientacao-a-objetos-em-python#:~:text=Para%20declarar%20um%20atributo%20em,ser%C3%A1%20criada%20em%20nosso%20programa.
+
+Exemplos e video POO:
+https://www.alura.com.br/conteudo/python-3-avancando-orientacao-objetos?gclid=CjwKCAiAlp2fBhBPEiwA2Q10D4k6LdxaT_HS0yFbbbEFPgY5WvvxR-7x8Au_g6BH5LHbP4AT4cpMMhoC-qYQAvD_BwE
+
+Methodos magicos:
+https://www.youtube.com/watch?v=ZA9K9C2f9p4
+https://pythonhelp.wordpress.com/2013/03/11/os-metodos-magicos-de-python/
+
+Functool:
+https://www.educative.io/answers/what-is-the-totalordering-descriptor-in-functools-in-python
+
+
+__name__ == "__main__":
+https://www.alura.com.br/artigos/o-que-significa-if-name-main-no-python
+
+
+--------------------------------------------------Banco de dados-------------------------------------------------------
+-SQLlite3
+-Software-SQLite Estudio
+-Comandos
+-Video Aula
+-instrução with
+-conversores de tipo
+
+
+Documentação:
+https://www.sqlite.org/
+
+Software:
+https://sqlitestudio.pl/
+
+Comandos resumidos:
+http://pythonclub.com.br/guia-rapido-comandos-sqlite3.html
+
+Aula:
+https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog
+
+with como usar:
+https://horadecodar.com.br/2020/04/20/para-que-serve-o-with-no-python-como-utilizar/
+
+
+SQL injection:
+https://www.devmedia.com.br/sql-injection/6102
+
+Conversores de tipo:
+https://docs.python.org/3/library/sqlite3.html
+
+ORM:
+
+https://www.devmedia.com.br/orm-object-relational-mapper/19056#:~:text=ORM%20ou%20mapeador%20objeto%20relaciona,objetos%20e%20o%20mundo%20relacional.&text=ORM%20(Object%20Relational%20Mapper)%20%C3%A9,dados%20que%20os%20mesmos%20representam.
+
+
+Ferramenta para estrutura de banco de dados:
+
+https://ondras.zarovi.cz/sql/demo/?keyword=default
+
+
+------------------------------------------Protocolo HTTP------------------------------------------------
+
+
+Teoria:
+https://www.alura.com.br/artigos/desmistificando-o-protocolo-http-parte-1?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA4uNG5MutqPcbT5M8UMApnLaCFkDvABXAYcABMR1x1PCy_-eThP3JAaAqw9EALw_wcB
+
+Video aula:
+https://www.youtube.com/watch?v=e5OS6EPnN3w&list=PLx6gdu4s3nkceYGr8i4H0necTuN_gx8H_
+
+Verbos HTTP:
+https://www.devmedia.com.br/servicos-restful-verbos-http/37103
+
+Codigos de status de resposta HTTP:
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
+
+Estudos complemento:
+
+-Arquivo Json
+https://www.hostinger.com.br/tutoriais/o-que-e-json#:~:text=Usando%20Arrays-,O%20Que%20%C3%A9%20Json%20e%20Para%20Que%20Serve,%2C%20que%20tem%20fun%C3%A7%C3%B5es%20similares.
+
+Para teste de requisição:
+https://jsonplaceholder.typicode.com/
+
+Software:
+
+-Testes de requisição:
+https://httpie.io/
+
+
+
+Estudos complemento:
+
+-Arquivo Json
+https://www.hostinger.com.br/tutoriais/o-que-e-json#:~:text=Usando%20Arrays-,O%20Que%20%C3%A9%20Json%20e%20Para%20Que%20Serve,%2C%20que%20tem%20fun%C3%A7%C3%B5es%20similares.
+
+Para teste de requisição:
+https://jsonplaceholder.typicode.com/
+
+Software:
+
+-Testes de requisição:
+https://httpie.io/
+
+
+
+--------------------------------------Instalação de pacotes no windows------------------------------------------------
+https://chocolatey.org/
+
+-pip
+-Ambiente virtual
+
+----------------------------------------------API---------------------------------------------------------------------
+
+Vieo:
+https://www.youtube.com/watch?v=9SbUPqKEWcY&list=PLnDvRpP8Bnezalesxa3xu2yt-zWpsSk
+
+
+--------------------------------------------Comandos CMD------------------------------------------------------------------
+
+Manipular arquivos pelo CMD
+
+Criar Diretorio: mkdir
+Criar arquivo: type nul >
+Deletar Arquivo: del 
+Limpar CMD: CLS
+
+-------------------------------------------Atalhos VS code----------------------------------------------------------------
+ttps://www.youtube.com/watch?v=J9zepG022gw
+
+
+
+
+---------------------------------------------------Flask------------------------------------------------------------------
+
+Site:
+https://flask.palletsprojects.com/en/2.3.x/
+
+Video aula:
+https://www.youtube.com/watch?v=MysMy8aV2NA&list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI
+
+Estrutura Flask pastas:
+https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX
+
+
+
+------------------------------------Modelo de Organização da aplicação------------------------------------------------------
+
+Modelo MVC: Model (modelo) View (visão) e Controller (Controle)
+https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc?utm_campaign=&utm_adgroup=&gclid=EAIaIQobChMI-ObS2YGJ_gIV6ylMCh1r5wVIEAAYASAAEgL8RvD_BwE
+
+https://www.youtube.com/watch?v=Pz9rayiDHW0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX&index=2:  8:55 do video
+
+
+-----------------------------------------Criando Ambiente virtual------------------------------------------------------------
+
+https://www.alura.com.br/artigos/ambientes-virtuais-em-python?gclid=EAIaIQobChMIqP7fronD_QIVtxTUAR3XCAL3EAAYASAAEgLNbvD_BwE
+
+Video:
+https://www.youtube.com/watch?v=m1TYpvIYm74
+
+SQL Alchemy:(Tratamento de banco de dados)
+
+https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/
+
+Flask-Migrate: (CRUD no banco de dados)
+
+https://flask-migrate.readthedocs.io/en/latest/#example
+
+Comando para migração: py -m flask db init
+
+Flask login: (Formularios)
+
+https://flask-login.readthedocs.io/en/latest/#installation
+
+Flask flash:(Mensagens na pagina de resposta)
+
+https://flask.palletsprojects.com/en/2.3.x/patterns/flashing/
+
+
+
+
+------------------------------------------------Modulo OS:---------------------------------------------------
+
+OS.PATH:
+
+http://devfuria.com.br/python/os-path/
+
+os.path.join
+
+https://acervolima.com/python-metodo-os-path-join/
+
+Exemlo utilizando variavel   __file__
+
+https://www.geeksforgeeks.org/__file__-a-special-variable-in-python/
+
+
+-Instalação de pacotes no windows
+https://chocolatey.org/
+
+
+----------------------------------------Jinja para Tamplates---------------------------------------------
+
+Site:
+https://jinja.palletsprojects.com/en/3.1.x/
+
+Query String:
+https://www.devmedia.com.br/conceitos-e-exemplo-pratico-usando-querystring/1809
+
+
+-----------------------------------------------Bootstrap-------------------------------------------------
+
+https://getbootstrap.com
+
+
+-------------------------------------Flask WTF(criar formularios)-----------------------------------------
+
+https://flask-wtf.readthedocs.io/en/1.1.x/
+
+Arquivo requirement:
+
+-----------------------------------Backup bibliotecas no ambiente virtual com Flask----------------------
+pip freeze > requirement.txt
+
+Reinstalação dos pacotes instalados:
+
+pip install -r requirements.txt
+
+---------------------------------------------Programa finalizado------------------------------------------
+Deploy: o que é?
+
+https://coodesh.com/blog/dicionario/o-que-e-deploy/
+
+
+---------------------------------------------Analise de video(IA)------------------------------------------
+
+Documentação:
+
+Bibliotecas:
+
+-Numpy
+-Opem cv
+
+Opencv documentação:
+https://docs.opencv.org/3.4/d5/de5/tutorial_py_setup_in_windows.html
+
+Exemplo:
+
+Imagem:
+https://www.youtube.com/watch?v=a9x--8LYzWc
+
+Pratico:
+https://www.cedrotech.com/blog/opencv-uma-breve-introducao-visao-computacional-com-python/
+
+
+Videos:
+
+Exemplo codigo rodando:
+https://www.youtube.com/watch?v=bHOvVuBFAGI
+
+Exemplo web cam:
+https://www.youtube.com/watch?v=om2ejJ5qdOA
+
+Exemplo yolov5:
+https://www.youtube.com/watch?v=AMshlkKLzxY
+
+Modulo Torch problema resolvido:
+https://stackoverflow.com/questions/77225812/is-there-a-way-to-install-pytorch-on-python-3-12-0
+
+IA analisando funcionando:
+https://www.youtube.com/watch?v=PdErmEf-FCs
+
+API Documentação:
+https://botminio.apps.intelbras.com.br/sdk-api/HTTP_API_V3.35_Intelbras.pdf
+https://forum.intelbras.com.br/viewtopic.php?t=58312
+
+Resolvendo Problema do Power Shell:
+https://www.youtube.com/watch?v=m1TYpvIYm74
+
+
+---------------------------------------------Versionamento Git------------------------------------------------
+
+
+https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=682526577071&hsa_src=g&hsa_tgt=aud-396128415587:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA1-6sBhAoEiwArqlGPt0vknwAYIvC_fEkafNNgtUWHeXPR15fBM2a0VMB7_8S6I9W6Lfh0hoCpe0QAvD_BwE
+
+git add "nome do arquivo
+git add "nome do diretorio/"
+git add . 
+git log # para sair pressione "q"
+git checkout "hash" # descrição pega no log
+git checkout master #para voltar a ultimaversão
+
+
+
+----------------------------------------------------RaspBerry pi-------------------------------------------
+
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
+
+
+Documentação:
+
+https://gpiozero.readthedocs.io/en/stable/installing.html
+
+
+Tutorial Entradas e saida GPIO:
+
+https://www.youtube.com/watch?v=gcjQuvI6O6s
+
+
+
+
+
+==========================================================================================================================================================================================================================================================================================
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::LINKS::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Canal 1 Filipe:
+
+https://www.youtube.com/watch?v=5QF4zWx_ang&list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI&index=6
+
+
+Canal 2 Julia:
+
+https://www.youtube.com/watch?v=ddjT_Gdp_cc&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX&index=14    

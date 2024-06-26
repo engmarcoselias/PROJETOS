@@ -1,0 +1,8 @@
+__init__
+
+
+O método init do python é uma função especial que podemos aplicar para inicializar uma classe. Quando criamos objeto da classe, o método é aplicado automaticamente e definindo comportamento inicial do objeto. Nesse sentido, podemos usar o objeto da classe como um ponteiro para o objeto que está sendo inicializado, acessando atributos e métodos da classe e realizando qualquer outra operação necessária para inicializar o objeto.
+
+Exemplos:
+
+https://www.homehost.com.br/blog/pythondjango/init-python/
