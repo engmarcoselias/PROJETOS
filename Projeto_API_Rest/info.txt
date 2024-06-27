@@ -1,0 +1,37 @@
+------------------------------------------------API Rest-----------------------------------------------------
+
+Video Exemplo:
+https://www.youtube.com/watch?v=5mMuX8AWxxs
+
+Teste de Aplicação:
+https://mockapi.io
+
+
+Usando Postman:
+
+1-Baixar o Programa
+
+2- Criar nova coleção
+
+3-Adicionar nova requisição
+
+4-Pegar o link da Api para teste de requisição
+
+5-Metodo GET consulta estatus
+  Metodo POST Adiciona (Ir até o Body, Raw e usar Json )
+  Metodo PUT edita(adicionar o id na URL)
+  Metodo DELET deletar(adicionar o id na URL)
+==========================================================================================================================================================================================================================================================================================
+
+-------------------------------------------API pelo Flask sem Conexão com banco de dados-----------------------------
+
+Video  Exemplo:
+https://www.youtube.com/watch?v=LP8besicfH4
+
+
+-------------------------------------------API pelo Flask Conexão com banco de dados-----------------------------
+
+Video Exemplo:
+https://www.youtube.com/watch?v=WDpPGFkI9UU
+
+

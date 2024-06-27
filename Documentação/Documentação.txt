@@ -79,6 +79,11 @@ Ferramenta para estrutura de banco de dados:
 
 https://ondras.zarovi.cz/sql/demo/?keyword=default
 
+---------------------------------------------REST--------------------------------------------------------
+
+Conceito e fundamentos:
+https://www.alura.com.br/artigos/rest-conceito-e-fundamentos?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=164240702375&hsa_ad=703829337057&hsa_src=g&hsa_tgt=aud-409949667484:dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMIvo76h8j5hgMVZFhIAB2mnwoaEAAYASAAEgKy-PD_BwE
+
 
 ------------------------------------------Protocolo HTTP------------------------------------------------
 
@@ -131,12 +136,6 @@ https://chocolatey.org/
 -pip
 -Ambiente virtual
 
-----------------------------------------------API---------------------------------------------------------------------
-
-Vieo:
-https://www.youtube.com/watch?v=9SbUPqKEWcY&list=PLnDvRpP8Bnezalesxa3xu2yt-zWpsSk
-
-
 --------------------------------------------Comandos CMD------------------------------------------------------------------
 
 Manipular arquivos pelo CMD
@@ -148,29 +147,6 @@ Limpar CMD: CLS
 
 -------------------------------------------Atalhos VS code----------------------------------------------------------------
 ttps://www.youtube.com/watch?v=J9zepG022gw
-
-
-
-
----------------------------------------------------Flask------------------------------------------------------------------
-
-Site:
-https://flask.palletsprojects.com/en/2.3.x/
-
-Video aula:
-https://www.youtube.com/watch?v=MysMy8aV2NA&list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI
-
-Estrutura Flask pastas:
-https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX
-
-
-
-------------------------------------Modelo de Organização da aplicação------------------------------------------------------
-
-Modelo MVC: Model (modelo) View (visão) e Controller (Controle)
-https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc?utm_campaign=&utm_adgroup=&gclid=EAIaIQobChMI-ObS2YGJ_gIV6ylMCh1r5wVIEAAYASAAEgL8RvD_BwE
-
-https://www.youtube.com/watch?v=Pz9rayiDHW0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX&index=2:  8:55 do video
 
 
 -----------------------------------------Criando Ambiente virtual------------------------------------------------------------
@@ -198,6 +174,27 @@ Flask flash:(Mensagens na pagina de resposta)
 
 https://flask.palletsprojects.com/en/2.3.x/patterns/flashing/
 
+
+
+---------------------------------------------------Flask------------------------------------------------------------------
+
+Site:
+https://flask.palletsprojects.com/en/2.3.x/
+
+Video aula:
+https://www.youtube.com/watch?v=MysMy8aV2NA&list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI
+
+Estrutura Flask pastas:
+https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX
+
+
+
+------------------------------------Modelo de Organização da aplicação------------------------------------------------------
+
+Modelo MVC: Model (modelo) View (visão) e Controller (Controle)
+https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc?utm_campaign=&utm_adgroup=&gclid=EAIaIQobChMI-ObS2YGJ_gIV6ylMCh1r5wVIEAAYASAAEgL8RvD_BwE
+
+https://www.youtube.com/watch?v=Pz9rayiDHW0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX&index=2:  8:55 do video
 
 
 
@@ -251,6 +248,19 @@ pip install -r requirements.txt
 Deploy: o que é?
 
 https://coodesh.com/blog/dicionario/o-que-e-deploy/
+
+
+----------------------------------------------API--------------------------------------------------------
+Video:
+https://www.youtube.com/watch?v=9SbUPqKEWcY&list=PLnDvRpP8Bnezalesxa3xu2yt-zWpsSk
+
+Software teste de API:
+
+--Insomnia
+https://insomnia.rest/download
+
+--Postman
+https://www.postman.com/
 
 
 ---------------------------------------------Analise de video(IA)------------------------------------------
