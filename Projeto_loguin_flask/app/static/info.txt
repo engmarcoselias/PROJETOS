@@ -8,7 +8,7 @@ A view e dividida em duas pastas padrões do Flask, arquivos staticos(CSS,fontes
 
 Definição:
 
-A idéia por trás do url_for, como eu creio que você deva ter aprendido nessa etapa do curso, é criar uma URL para um endpoint, passando um método específico para ele.
+A idéia por trás do url_for, é criar uma URL para um endpoint, passando um método específico para ele.
 
 Dito isto, espera-se que o método passado para este endpoint seja único. Logo, para garantir o funcionamento correto do seu código, seria necessário que houvesse apenas um método 'cadastrar'. Ou, numa melhor prática, para cada método de cadastro, um nome diferente.
 

@@ -1,0 +1,13 @@
+---------------------------------------ANALISE DE VIDEO YOLO PELO COLAB--------------------------------------------------
+
+link:
+https://www.youtube.com/watch?v=pTbssYiEu1M&list=PLqSRiSjByYuKqUleBDbwjNt5GJLhoae70
+
+
+Ferramentas:
+--Google Colab
+--Modulo YOLO
+
+
+dDetecção de Objetos:
+https://www.youtube.com/watch?v=Yd5M92jc9EY&list=PLqSRiSjByYuK5Y61YaEqo0aHmTlnsCGAs
